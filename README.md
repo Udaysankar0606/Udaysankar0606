@@ -50,8 +50,19 @@
 
 ## 🌐 Connect With Me
 
-🔗 https://www.linkedin.com/in/uday-sankar-2691a32bb/ 
+<p align="left">
+  <a href="https://www.linkedin.com/in/Uday Sankar/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.instagram.com/_u_d_a_y_s_a_n_k_a_r_/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/Udaysankar0606" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+</p>
 ---
 
 ### ⚡ Fun Fact
