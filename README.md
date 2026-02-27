@@ -55,6 +55,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 ### ⚡ Fun Fact
