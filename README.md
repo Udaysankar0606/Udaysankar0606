@@ -40,7 +40,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udaysankar0606&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Udaysankar0606&theme=radical)
