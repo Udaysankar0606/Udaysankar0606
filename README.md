@@ -19,7 +19,7 @@
 
 - Java OOP & Advanced Concepts
 - Data Structures & Algorithms
-- DAta Science
+- Generative AI
 - Fullstack Webdevelopment
 - Fullstack Python
 - Prompt Engineering
