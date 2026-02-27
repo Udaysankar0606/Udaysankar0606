@@ -30,12 +30,7 @@
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-102230?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
