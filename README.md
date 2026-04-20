@@ -39,8 +39,7 @@
 ## 🎯 2026 Goals
 
 - 🔥 Master Data Structures & Algorithms  
-- 🚀 Build 10 Real-World Projects  
-- 🤖 Create a Strong AI Developer Brand  
+- 🚀 Build 10 Real-World Projects    
 - 💰 Get Internship in Tech  
 
 ---
