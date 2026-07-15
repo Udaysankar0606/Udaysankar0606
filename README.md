@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Uday Sankar
 
 🚀 CSE (AIML) Student at Parul University  
-🤖 AI Enthusiast | Java | Python | C & C++ | Future Tech Entrepreneur  
-🌍 Building Projects | Learning DSA | Growing in Public  
+🤖 AI Enthusiast | Java | Python | C | Future Tech Entrepreneur  
+🌍 Building Projects | Learning DSA & Generative AI | Growing in Public  
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Second Year CSE AIML Student  
+- 🎓 Third Year CSE AIML Student  
 - 💻 Passionate about AI, Software Development & Technology   
 - 📈 Improving DSA Daily  
 - 🌱 Creating AI based Applications  
@@ -17,7 +17,6 @@
 
 ## 🌱 Currently Learning
 
-- Java OOP & Advanced Concepts
 - Data Structures & Algorithms
 - Generative AI
 - Fullstack Webdevelopment
@@ -55,4 +54,4 @@
 ---
 
 ### ⚡ Fun Fact
-I want to master all programming languages 😎
+I want to Build an AI Community to explore more AI knowledge. 😎
